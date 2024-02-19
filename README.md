@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Sobre o projeto: (coding in flow)
+
+- Criando um portfolio inteligente com openai, langchain, astradb, redis.
+- Tailwindcss.
+- Uso clsx, merge tailwindcss.
+- Navbar, Footer.
+- Themes dark e toggle para troca de class para tirar do dark (ThemeProvider, ThemeProvider).
+- Vercel ai.
+- Criação de caixa para mensagens do chat bot (AIChatBox, AIChatButton).
+- Geração e armazenamento de informações (metadata, dodos e caminhos, vetores) do site para o banco astradb.
